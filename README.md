@@ -9,7 +9,8 @@ In addition to frontend development, I also have expertise in:
 
 ✅ WordPress: Designing and developing custom themes and plugins, optimizing site performance, and enhancing user experience. <br>
 ✅ Shopify: Building and customizing Shopify stores, integrating payment gateways, and ensuring a seamless shopping experience.<br>
-✅ Bug Fixing: Diagnosing and resolving issues across various platforms to ensure your website runs smoothly and efficiently. Whether you need a stunning new website, an optimized e-commerce store, or a quick fix for a pesky bug, I’m here to help bring your vision to life. Let’s build something great together!
+✅ Bug Fixing: Diagnosing and resolving issues across various platforms to ensure your website runs smoothly and efficiently.<br>
+Whether you need a stunning new website, an optimized e-commerce store, or a quick fix for a pesky bug, I’m here to help bring your vision to life. Let’s build something great together!
 
 Please feel free to get in touch with me to talk about your project or ask any questions.
 
