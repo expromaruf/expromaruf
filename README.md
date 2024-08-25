@@ -1,7 +1,6 @@
-(https://i.pinimg.com/1200x/6a/13/50/6a1350b309f543384f17f7ebe2711258.jpg)
+![Frontend Developer](https://i.pinimg.com/1200x/6a/13/50/6a1350b309f543384f17f7ebe2711258.jpg)
 ### Hi there 👋, I am Maruf
 #### Frontend Developer
-![Frontend Developer]
 
 Hi, I'm Maruf, a dedicated front-end web developer passionate about creating visually appealing and user-friendly websites. With a strong background in HTML, CSS, and JavaScript, I specialize in crafting responsive and engaging front-end experiences.
 
