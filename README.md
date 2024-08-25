@@ -1,4 +1,4 @@
-![Frontend Developer](https://i.pinimg.com/1200x/6a/13/50/6a1350b309f543384f17f7ebe2711258.jpg)
+![Frontend Developer](https://i.pinimg.com/previews/SA16s1sE.jpeg)
 ### Hi there 👋, I am Maruf
 #### Frontend Developer
 
