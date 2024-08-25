@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Maruf
 #### Frontend Developer
-![Frontend Developer](https://ummahacademy.org/wp-content/uploads/2024/08/homepage_modified_4-2048x1151.jpg)
+![Frontend Developer](https://www.portfolio-maruf.com/wp-content/uploads/2024/08/cover-10.png)
 
 Hi, I'm Maruf, a dedicated front-end web developer passionate about creating visually appealing and user-friendly websites. With a strong background in HTML, CSS, and JavaScript, I specialize in crafting responsive and engaging front-end experiences.
 
