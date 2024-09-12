@@ -1,3 +1,7 @@
+![Alt text](https://www.portfolio-maruf.com/wp-content/uploads/2024/08/cover-10.png)
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on WordPress Theme Development<br>👯 I’m looking to collaborate on Github<br>🌱 I’m currently learning PHP OOP<br>💬 Ask me about WordPress And Shopify Theme Development<br>
 
